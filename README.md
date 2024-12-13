@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=gldtn&theme=catppuccin-mocha)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gldtn&theme=catppuccin-mocha&border_radius=4&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **gldtn/gldtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
